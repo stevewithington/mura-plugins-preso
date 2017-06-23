@@ -1,4 +1,4 @@
-#Mura Plugins
+# Mura Plugins
 
 * Open the file located under `/config/settings.ini.cfm`
 * Make sure `autodiscoverplugins=true`. If you had to change it, reload Mura.
